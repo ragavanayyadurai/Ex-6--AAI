@@ -1,7 +1,8 @@
 <H3>ENTER YOUR NAME : RAGAVENDRAN A</H3>
 <H3>ENTER YOUR REGISTER NO : 212222230114</H3>
-<H3>EX.NO: 6</H3><H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
-<H3>DATE : </H3>
+<H3>EX.NO: 6</H3>
+<H3>DATE : 21/10/2024</H3>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## Aim :
 
